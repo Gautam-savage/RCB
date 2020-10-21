@@ -1,1 +1,2 @@
-# RCB
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
